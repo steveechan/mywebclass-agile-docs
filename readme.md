@@ -112,10 +112,10 @@ business processes to provide realistic scenarios for students to learn technolo
 ### Templates - Modify these as necessary
 
 * [Theme Template](documentation/templates/theme/theme_template.md)
-* [Initiative Template](documentation/templates/theme/initiativestest/initiative_template.md)
-* [Epic Template](documentation/templates/theme/initiativestest/epics/epic_template.md)
-* [User Story](documentation/templates/theme/initiativestest/epics/stories/story_template.md)
-* [Task Template](documentation/templates/theme/initiativestest/epics/stories/tasks/task_template.md)
+* [Initiative Template](documentation/templates/theme/initiatives/initiative_template.md)
+* [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
+* [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+* [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 
 ## My Rough Draft
 
