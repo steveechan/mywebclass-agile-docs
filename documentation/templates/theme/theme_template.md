@@ -2,4 +2,5 @@
 
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Conduct a comprehensive brand audit to ensure our web presence aligns with our brand identity, voice, and values.](documentation/templates/theme/initiatives/initiative_template.md)
+2. 
