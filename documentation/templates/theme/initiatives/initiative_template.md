@@ -31,3 +31,7 @@ Dependencies: None
 Team: Marketing team
 
 Define and clarify our web presence objectives and target audience to ensure our website meets their needs and expectations.
+
+# List epics related to this theme
+1. [Define and clarify our web presence objectives and target audience to ensure our website meets their needs and expectations.](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
