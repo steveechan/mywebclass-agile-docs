@@ -30,3 +30,6 @@ Dependencies: None
 Team: Marketing team
 
 Conduct market research and competitive analysis to identify key trends, opportunities, and best practices in our industry.
+
+# List epics related to this theme
+1. [Conducting research to identify our target audience and define the goals of our web presence.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template2.md)
