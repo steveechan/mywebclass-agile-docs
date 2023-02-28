@@ -2,6 +2,6 @@
 
 
 # List initiatives related to this theme
-1. [Conduct a comprehensive brand audit to ensure our web presence aligns with our brand identity, voice, and values.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiativestest/initiative_template.md)
+1. [Conduct a comprehensive brand audit to ensure our web presence aligns with our brand identity, voice, and values.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
 2. [Conduct research to identify our target audience and define the goals of our web presence.](documentation/templates/theme/initiatives/initiative_template2.md)
 3. [Analyze our industry and competitors to identify key trends and best practices that can inform our web development approach.](documentation/templates/theme/initiatives/initiative_template3.md)
