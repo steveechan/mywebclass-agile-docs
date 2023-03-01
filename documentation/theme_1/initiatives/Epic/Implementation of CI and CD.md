@@ -13,7 +13,7 @@ User Stories:
 
 Dependencies:
 1. ilability of team members
-2. ess to necessary resources and tools
+2. access to necessary resources and tools
 3. pletion of DevOps process documentation
 
 Risk: Delays in the implementation of the continuous integration and delivery process
