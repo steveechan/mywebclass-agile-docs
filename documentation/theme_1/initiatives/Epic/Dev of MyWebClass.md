@@ -27,3 +27,4 @@ Priority: High. The basic website template is a necessary foundation for the ong
 
 # List stories related to this epic
 1. [Website Template Requirements](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/dcd9c9dcfefd61278035b3e9a019363b3c76062b/documentation/theme_1/initiatives/Epic/User%20Stories/Website%20Template%20Requirements.md)
+2. [SEO Implementation](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/dcd9c9dcfefd61278035b3e9a019363b3c76062b/documentation/theme_1/initiatives/Epic/User%20Stories/SEO%20Implementation.md)
