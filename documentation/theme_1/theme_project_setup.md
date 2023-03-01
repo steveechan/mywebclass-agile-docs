@@ -11,7 +11,7 @@ In addition to planning the initial 0.1.0 release of the website template, we wi
 Our ultimate goal is to create a user-friendly, functional, and optimized website that meets the needs of our users and provides value to them. Throughout the development process, we will prioritize collaboration and communication, ensuring that all team members are aligned and working towards the same goal.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](mywebclass-agile-docs/documentation/theme_1/initiatives/initiative_devops.md)
+* [Develop initial project documentation to establish a clear project scope.](/documentation/theme_1/initiatives/initiative_devops.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
