@@ -1,4 +1,4 @@
-Develop initial project documentation to establish a clear project scope
+Project Documentation and PM
 
 Description: The initiative aims to develop initial project documentation that outlines the project's scope, goals, outcomes, and deliverables. The documentation will ensure a clear understanding of the project's purpose, timeline, and requirements, and enable stakeholders to make informed decisions about the project's direction.
 
