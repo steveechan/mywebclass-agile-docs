@@ -13,4 +13,4 @@ Analyze the data collected from the user research to identify our target audienc
 Present the findings and insights from the user research to the product owner and web development team.
 
 # List Tasks related to this theme
-1. [Tasks](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Tasks](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template2.md)
