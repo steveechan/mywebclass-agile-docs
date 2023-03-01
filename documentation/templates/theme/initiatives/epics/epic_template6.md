@@ -16,13 +16,7 @@ Prioritize continuous improvement, iterative development, and customer-centricit
 
 User Stories:
 
-As a web developer, I want to design a user-friendly and visually appealing website that reflects the brand identity and engages the target audience.
-
-As a content strategist, I want to create high-quality and engaging content that aligns with the business goals and resonates with the target audience.
-
-As a UX designer, I want to ensure that the website is easy to navigate, intuitive, and meets the needs and preferences of the target audience.
-
-As a QA analyst, I want to test the website thoroughly to ensure that it meets the business requirements, functional requirements, and usability requirements.
+As a website visitor, I want to easily find information about the company's products and services so that I can make informed decisions about potential purchases.
 
 Dependencies:
 
