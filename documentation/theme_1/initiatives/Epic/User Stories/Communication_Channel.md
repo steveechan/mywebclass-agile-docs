@@ -5,4 +5,4 @@ Acceptance Criteria:
 2. The project management process should include communication channels that allow team members to easily collaborate and exchange information, such as regular meetings, 3. emails, and a messaging platform.
 
 # List Tasks related to this theme
-[Develop PM Process Document](../documentation/theme_1/initiatives/Epic/User Stories/Tasks/Develop_PM_Process_Doc.md)
+1. [Tasks](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
