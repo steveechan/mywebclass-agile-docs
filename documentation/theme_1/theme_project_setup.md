@@ -17,4 +17,5 @@ Our ultimate goal is to create a user-friendly, functional, and optimized websit
 
 ## Test plan
 Create playwright test for all legal requirements
+
 Test that google analysitcs is tracking MyWebClass.org
