@@ -57,4 +57,4 @@ Enhancing the customers' experiences and providing a user-friendly and intuitive
 Priority: High
 
 # List stories related to this theme
-1. [Story](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template6.md)
+1. [User-friendly product and service information and navigation on the website](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template6.md)
