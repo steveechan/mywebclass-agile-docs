@@ -11,13 +11,9 @@ In addition to planning the initial 0.1.0 release of the website template, we wi
 Our ultimate goal is to create a user-friendly, functional, and optimized website that meets the needs of our users and provides value to them. Throughout the development process, we will prioritize collaboration and communication, ensuring that all team members are aligned and working towards the same goal.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](/documentation/theme_1/initiatives/initiative_devops.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+* [Basic Project Documentation and PM](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/bcc3b9b43462179ab0391387d9261c9b4d3a8346/documentation/theme_1/initiatives/Basic%20Project%20Documentation%20and%20PM.md)
+* [DevOps](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/bcc3b9b43462179ab0391387d9261c9b4d3a8346/documentation/theme_1/initiatives/DevOps.md)
+* [MyWebClass Base Website](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/bcc3b9b43462179ab0391387d9261c9b4d3a8346/documentation/theme_1/initiatives/MyWebClass%20Base%20Website.md)
 
 ## Test plan
 Create playwright test for all legal requirements
