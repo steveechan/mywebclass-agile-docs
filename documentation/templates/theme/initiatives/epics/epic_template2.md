@@ -8,10 +8,12 @@ User Stories:
 
 As a marketing team member, I want to conduct user research to identify our target audience and their needs and preferences.
 As a product owner, I want to define the goals of our web presence based on the user research to ensure our website meets their needs and expectations.
+
 Dependencies:
 
 Availability of user research tools and resources
 Availability of participants for user research
+
 Risks:
 
 The research may not provide clear insights into our target audience's needs and preferences, which could impact the effectiveness of our web presence.
