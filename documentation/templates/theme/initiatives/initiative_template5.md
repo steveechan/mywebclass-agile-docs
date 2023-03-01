@@ -77,3 +77,7 @@ DevOps Engineer - responsible for the implementation and maintenance of the CI/C
 Testing Engineer - responsible for the integration of the automated testing framework.
 
 Collaboration Specialist - responsible for the integration and setup of collaboration tools.
+
+# List epics related to this theme
+
+1. [Set up CI/CD DevOps Processes](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template5.md)
