@@ -30,3 +30,6 @@ Dependencies: None
 Team: Marketing team
 
 Develop a robust content strategy that aligns with our business goals, SEO best practices, and user needs.
+
+# List epics related to this theme
+1. [Conduct a thorough analysis of the industry and competitors to identify key trends and best practices that can inform our web development approach](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template3.md)
