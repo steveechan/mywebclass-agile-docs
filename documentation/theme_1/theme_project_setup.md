@@ -11,7 +11,7 @@ Ultimately, our web initiative is more than just a project – it is a critical 
 
 * [Develop initial project documentation to establish a clear project scope.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template4.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template5.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Create an intitial web page](initiatives/initiative_webpage_template.md)
 
 ## Test plan
 How will this be tested?
