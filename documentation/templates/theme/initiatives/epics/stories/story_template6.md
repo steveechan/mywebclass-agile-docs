@@ -11,4 +11,4 @@ The website must be mobile-friendly and accessible on a variety of devices.
 Note: The implementation of this user story will contribute to the overall goal of creating a website that meets and exceeds business requirements and drives growth and success for the organization by providing a positive user experience and encouraging potential customers to make informed purchasing decisions.
 
 # List Tasks related to this theme
-1. [Tasks](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template6.md)
+1. [Improve product and service pages](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template6.md)
