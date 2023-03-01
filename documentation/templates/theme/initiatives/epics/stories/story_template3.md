@@ -11,3 +11,6 @@ The analysis report is presented to stakeholders for review and feedback.
 Any necessary changes to our web development approach are implemented based on the analysis report and stakeholder feedback.
 
 Our website development approach aligns with industry standards and exceeds our competitors' offerings, as evidenced by customer engagement, conversions, and business growth metrics.
+
+# List Tasks related to this theme
+1. [Tasks](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template3.md)
