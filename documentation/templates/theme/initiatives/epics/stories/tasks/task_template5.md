@@ -1,6 +1,6 @@
 Task Title: Integrate Unit Tests into CI/CD Pipeline
 
-User Story: (https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template5.md)
+User Story: As a developer, I want to integrate automated testing into the CI/CD pipeline, so that I can ensure that new code changes do not introduce bugs or regressions.
 
 Description: The task involves integrating unit tests into the CI/CD pipeline. The developer needs to create unit tests for their code and configure the pipeline to automatically run these tests after each code change is pushed to the repository. The test results should be reported to the development team, and the pipeline should stop and alert the team if any tests fail. The developer also needs to track and report the test coverage to the development team.
 
