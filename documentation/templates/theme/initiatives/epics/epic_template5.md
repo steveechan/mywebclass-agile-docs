@@ -42,4 +42,4 @@ Improved customer satisfaction.
 Priority: High
 
 # List stories related to this theme
-1. [Story](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template5.md)
+1. [Automated testing integration in CI/CD pipeline](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template5.md)
