@@ -13,5 +13,5 @@ Develop user personas based on the research findings that accurately represent o
 Create a report summarizing the research findings and recommendations for aligning our web presence objectives with the needs and preferences of our target audience.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Tasks related to this theme
+1. [Tasks](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
