@@ -30,4 +30,4 @@ Priority: High
 
 # List stories related to this epic
 1. [Continuous Integration](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/9b6d5be0206a034cc680bfde6ce814103db50857/documentation/theme_1/initiatives/Epic/User%20Stories/Continuous%20Integration.md)
-2. [deployment system](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/9b6d5be0206a034cc680bfde6ce814103db50857/documentation/theme_1/initiatives/Epic/User%20Stories/deployment%20system.md)
+2. [Deployment System](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/9b6d5be0206a034cc680bfde6ce814103db50857/documentation/theme_1/initiatives/Epic/User%20Stories/deployment%20system.md)
