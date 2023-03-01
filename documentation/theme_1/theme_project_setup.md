@@ -15,4 +15,5 @@ Our ultimate goal is to create a user-friendly, functional, and optimized websit
 * [Create an intitial web page](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template6.md)
 
 ## Test plan
-How will this be tested?
+1. To ensure compliance with legal requirements, use Playwright to create tests
+2. Confirm the effective tracking of MyWebClass.org by Google Analytics through testing
