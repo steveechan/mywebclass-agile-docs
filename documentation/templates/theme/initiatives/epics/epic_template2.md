@@ -23,4 +23,4 @@ Business Value: This epic will provide valuable insights into our target audienc
 Priority: High. Conducting research to identify our target audience and define the goals of our web presence is a critical first step in developing an effective web presence that meets our business objectives.
 
 # List stories related to this theme
-1. [Story](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template2.md)
