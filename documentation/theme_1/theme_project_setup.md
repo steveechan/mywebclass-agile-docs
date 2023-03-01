@@ -16,5 +16,5 @@ Our ultimate goal is to create a user-friendly, functional, and optimized websit
 * [MyWebClass Base Website](https://github.com/Chrissquared31/mywebclass-agile-docs/blob/bcc3b9b43462179ab0391387d9261c9b4d3a8346/documentation/theme_1/initiatives/MyWebClass%20Base%20Website.md)
 
 ## Test plan
-1. Create playwright test for all legal requirements
-2. Test that google analysitcs is tracking MyWebClass.org
+1. To ensure compliance with legal requirements, use Playwright to create tests
+2. Confirm the effective tracking of MyWebClass.org by Google Analytics through testing
