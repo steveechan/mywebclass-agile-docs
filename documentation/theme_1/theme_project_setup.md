@@ -10,8 +10,8 @@ In addition to planning the initial 0.1.0 release of the website template, we wi
 
 Our ultimate goal is to create a user-friendly, functional, and optimized website that meets the needs of our users and provides value to them. Throughout the development process, we will prioritize collaboration and communication, ensuring that all team members are aligned and working towards the same goal. By doing so, we will create a website that meets our users' needs, provides value to them, and positively reflects the brand of MyWebClass.
 
-* [Develop initial project documentation to establish a clear project scope.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template4.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template5.md)
+* [Project Documentation and PM](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template4.md)
+* [DevOps](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template5.md)
 * [Create an intitial web page](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template6.md)
 
 ## Test plan
