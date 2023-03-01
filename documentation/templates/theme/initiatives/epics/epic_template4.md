@@ -42,4 +42,4 @@ The development of a clear and concise project scope document will ensure that a
 Priority: High
 
 # List stories related to this theme
-1. [Story](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template4.md)
+1. [Review and Feedback on Project Scope Document](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template4.md)
