@@ -6,7 +6,7 @@ Description: Conduct a survey to gather demographic information about our target
 
 Effort Estimate: 20 hours
 
-Assigned To: Jane Doe
+Assigned To: Marketing Team Member
 
 Priority: High
 
