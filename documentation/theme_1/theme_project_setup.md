@@ -9,7 +9,7 @@ Furthermore, we recognize the importance of measuring and evaluating our web pre
 Ultimately, our web initiative is more than just a project – it is a critical component of our overall digital strategy that will help us achieve our business objectives and enhance our customers' experiences. With a clear vision, collaborative mindset, and commitment to excellence, we are confident in our ability to establish a successful web presence that drives growth, innovation, and success for our organization.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
+* [Develop initial project documentation to establish a clear project scope.](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template4.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
