@@ -12,14 +12,7 @@ Provide a roadmap for project completion
 
 User Stories:
 
-As a project manager, I want to define project objectives and outcomes, so that I can create a project scope document that outlines the project's goals and objectives.
-
-As a project manager, I want to identify project stakeholders, so that I can ensure their input and participation in the project scope development process.
-
-As a project team member, I want to identify project risks and dependencies, so that I can ensure that the project scope document accurately reflects the project's 
-constraints and limitations.
-
-As a project manager, I want to establish project timelines and milestones, so that I can ensure that the project scope document accurately reflects the project's schedule and deadlines.
+As a project stakeholder, I want to review and provide feedback on the project scope document, so that I can ensure that the project's goals and objectives align with my expectations and requirements.
 
 Dependencies:
 
