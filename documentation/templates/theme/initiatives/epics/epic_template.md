@@ -25,4 +25,4 @@ Business Value: This epic will deliver a website that meets the needs and expect
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story]([documentation/templates/theme/initiatives/epics/stories/story_template.md](https://github.com/steveechan/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md))
