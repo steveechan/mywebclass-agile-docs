@@ -1,8 +1,16 @@
 Task Title: Develop Project Management Process Document
 
-User Story: As a project manager, I want to have a project management process that outlines roles, responsibilities, and communication channels for team members, so that we can work together effectively and efficiently.
+User Story: As a project manager, I want to have a project management process that outlines roles, 
+responsibilities, and communication channels for team members, so that we can work together effectively and efficiently.
 
-Description: The task involves creating a document that outlines the project management process, including the roles and responsibilities of each team member, specific tasks, deadlines, and communication channels. The document should be detailed enough to provide a clear understanding of the project management process, but also concise enough to be easily understandable by all team members. The acceptance criteria include that the document should clearly define each team member's roles and responsibilities, including their specific tasks and deadlines, and should include communication channels that allow team members to easily collaborate and exchange information, such as regular meetings, emails, and a messaging platform. The task is dependent on gathering input from all team members to ensure that their roles and responsibilities are accurately reflected in the document.
+Description: The task involves creating a document that outlines the project management process, 
+including the roles and responsibilities of each team member, specific tasks, deadlines, and communication channels. 
+The document should be detailed enough to provide a clear understanding of the project management process, 
+but also concise enough to be easily understandable by all team members. The acceptance criteria include that the document 
+should clearly define each team member's roles and responsibilities, including their specific tasks and deadlines, and 
+should include communication channels that allow team members to easily collaborate and exchange information, such as regular meetings, 
+emails, and a messaging platform. The task is dependent on gathering input from all team members to ensure 
+that their roles and responsibilities are accurately reflected in the document.
 
 Effort Estimate: 10 hours
 
