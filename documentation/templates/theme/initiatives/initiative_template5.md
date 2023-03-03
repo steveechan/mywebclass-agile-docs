@@ -58,9 +58,9 @@ The team has the necessary technical expertise to implement the tools and techno
 
 Risks:
 
-Resistance from team members due to change in established practices - Mitigation: Provide adequate training and support.
+Legal and technical requirements change during development.
 
-Technical issues with integration and automation - Mitigation: Regular testing and debugging.
+Technical issues during development that could cause delays.
 
 Delay in implementation of DevOps process
 
