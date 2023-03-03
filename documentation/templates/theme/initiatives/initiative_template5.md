@@ -62,6 +62,8 @@ Resistance from team members due to change in established practices - Mitigation
 
 Technical issues with integration and automation - Mitigation: Regular testing and debugging.
 
+Delay in implementation of DevOps process
+
 Dependencies:
 
 Access to necessary software and tools.
