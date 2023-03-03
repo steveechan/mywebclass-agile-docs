@@ -58,7 +58,7 @@ The team has the necessary technical expertise to implement the tools and techno
 
 Risks:
 
-Legal and technical requirements change during development.
+Delay in completion of project plan, project management process documentation, or risk management plan Mitigation: Ensure that project plan, project management process documentation, and risk management plan are reviewed and approved in a timely manner
 
 Technical issues during development that could cause delays.
 
