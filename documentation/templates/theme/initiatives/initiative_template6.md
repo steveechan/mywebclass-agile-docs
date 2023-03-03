@@ -36,9 +36,9 @@ Improved search engine ranking for the website.
 
 Deliverables:
 
-Website design and layout.
+Basic website template that meets legal and technical requirements.
 
-Website content and messaging.
+Website optimized for search engines by implementing basic on-page SEO requirements.
 
 Website functionality implementation.
 
@@ -64,9 +64,9 @@ Limited time frame for website development.
 
 Assumptions:
 
-The website development team has the necessary expertise and skills.
+Legal and technical requirements change during development.
 
-The organization's brand identity and messaging are well-defined.
+Technical issues during development that could cause delays.
 
 Risks:
 
