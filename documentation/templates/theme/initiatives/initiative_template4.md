@@ -6,7 +6,7 @@
 
 - Establish a clear understanding of the project's scope, goals, and objectives
 
-- Develop a comprehensive list of deliverables
+- To develop a risk management plan that identifies potential risks and provides mitigation strategies
 
 - Create a project timeline with major milestones and deadlines
 
